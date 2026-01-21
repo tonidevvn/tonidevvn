@@ -1,11 +1,17 @@
 ## 👋 Hi everyone, I'm Toni 
 Software Engineer | Full-Stack Developer | Lifelong Learner
 
+![Open To Work](https://img.shields.io/badge/open-to_work-brightgreen?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonipham/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonidevvn@gmail.com)
+
 I’m a passionate Software Engineer who views coding not just as a profession, but as a hobby. I love building scalable applications and exploring the intersection of robust backend logic and intuitive frontend design.
 
-![Open To Work](https://img.shields.io/badge/open-to_work-brightgreen?style=for-the-badge)
+* ✈️ **Passion:** Traveling and exploring new cultures.
+* 💞️ **Collaboration:** Open to open-source projects, web design challenges, and algorithm contests.
+* 📫 **Availability:** I’m responsive and always happy to chat about code, architecture, or potential career opportunities.
 
-### Tech Stack
+### Tech Stack 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -49,14 +55,5 @@ I’m a passionate Software Engineer who views coding not just as a profession, 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-✈️ Traveling is another passion of mine. 
-
-💞️ I’m looking to collaborate on open source projects, web design challenges, and algorithm contests.
-
-📫 Let's Connect!
-I’m responsive and always happy to chat about code, architecture, or potential collaborations.
-
-📧 Email: [[tonidevvn@gmail.com](mailto:tonidevvn@gmail.com)]
-
-💼 LinkedIn: [[Toni's LinkedIn](https://www.linkedin.com/in/tonipham/)]
-
+### GitHub's Statistics
+![Toni's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tonidevvn&layout=compact&langs_count=7&theme=default_repocard)
